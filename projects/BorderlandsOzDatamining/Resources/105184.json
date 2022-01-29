@@ -1,7 +1,7 @@
 {
   "base_address": 4194304, /* 0x400000 */
-  "global_name_array_address": 33806468, /* 0203D884 */
-  "global_object_array_address": 34083944, /* 02081468 */
+  "global_name_array_address": 33806468, /* 0x203D884 */
+  "global_object_array_address": 34083944, /* 0x2081468 */
   "name_entry_index_offset": 8, /* 0x8 */
   "name_entry_string_offset": 16, /* 0x10 */
   "offsets": {
